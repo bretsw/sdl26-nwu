@@ -109,13 +109,17 @@ include_graphics("img/interview.jpg")
 
 ]
 
+--
+
+**Teachers were intentional in their learning, but why? How?**
+
 ---
 
 # `r fa("fas fa-person-chalkboard", fill = "#fff")` Anne
 
 .pull-left[
 
-### Social Media
+### Expectations
 
 ```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/anne1.jpg")
@@ -177,7 +181,7 @@ Knowles, M. S. (1975). *Self-directed learning: A guide for learners and teacher
 
 ---
 
-# `r fa("fas fa-mountain-sun", fill = "#fff")` SDL Activities:
+# `r fa("fas fa-mountain-sun", fill = "#fff")` SDL Activities
 
 ```{r, out.width = "35%", echo = FALSE, fig.align = "center"}
 include_graphics("img/SDL.jpg")
@@ -205,7 +209,13 @@ include_graphics("img/SDL.jpg")
 
 --
 
-### How do Anne and Amelia's stories bring these SDL activities to life?
+<hr>
+
+**How did SDL help me make sense of Anne and Amelia's stories?**
+
+--
+
+**AND: How do Anne and Amelia's stories bring these SDL activities to life?**
 
 
 
@@ -262,7 +272,7 @@ include_graphics("img/cooking2.jpg")
 
 ---
 
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Knowles' Definition of SDL:
+# `r fa("fas fa-mountain-sun", fill = "#fff")` SDL + Story
 
 .pull-left[
 
@@ -273,6 +283,8 @@ include_graphics("img/SDL.jpg")
 ```
 
 ]
+
+--
 
 .pull-right[
 
@@ -343,17 +355,19 @@ include_graphics("img/web-dev2.jpg")
 
 ---
 
-# `r fa("fas fa-mountain-sun", fill = "#fff")` Knowles' Definition of SDL:
+# `r fa("fas fa-mountain-sun", fill = "#fff")` SDL + Story
 
 .pull-left[
 
-### How would my web development story be improved with SDL?
+### How can my web development story continue to be improved with SDL?
 
 ```{r, out.width = "100%", echo = FALSE, fig.align = "center"}
 include_graphics("img/SDL.jpg")
 ```
 
 ]
+
+--
 
 .pull-right[
 
@@ -391,11 +405,11 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# `r fa("fas fa-comment", fill = "#fff")` <br><br> Further Reflection
+# `r fa("fas fa-forward", fill = "#fff")` <br><br> Further Reflection
 
 ---
 
-# `r fa("fas fa-comment", fill = "#fff")` Why me?
+# `r fa("fas fa-forward", fill = "#fff")` Why me + SDL?
 
 ```{r, out.width = "80%", echo = FALSE, fig.align = "center"}
 include_graphics("img/listening.jpg")
@@ -403,9 +417,13 @@ include_graphics("img/listening.jpg")
 
 ### What does this all mean? Why me?
 
+--
+
+**Listening is my super power (I have lots of stories about why), and this seems to have prepared me for SDL...**
+
 ---
 
-# `r fa("fas fa-comment", fill = "#fff")` Why you?
+# `r fa("fas fa-forward", fill = "#fff")` Why you + SDL?
 
 ```{r, out.width = "80%", echo = FALSE, fig.align = "center"}
 include_graphics("img/nwu.png")
@@ -415,7 +433,7 @@ include_graphics("img/nwu.png")
 
 ---
 
-# AOSIS Book Trends
+# `r fa("fas fa-forward", fill = "#fff")` What's next?
 
 .pull-left-70[
 
@@ -425,9 +443,11 @@ include_graphics("img/AOSIS-concept-trends.png")
 
 ]
 
+--
+
 .pull-right-30[
 
-### What are the stories behind these SDL trends?
+### What are the stories behind these trends in the AOSIS SDL book series?
 
 ]
 
@@ -438,7 +458,7 @@ include_graphics("img/AOSIS-concept-trends.png")
 
 class: inverse, center, middle
 
-# `r fa("fas fa-comment-dots", fill = "#fff")` <br><br> Stories and SDL
+# `r fa("fas fa-comment-dots", fill = "#fff")` <br><br> Final Thought:<br><br>Stories and SDL
 
 **How might stories unlock better SDL in an age of accelerating change?**
 
@@ -450,14 +470,12 @@ class: inverse, center, middle
 
 class: inverse, center, middle
 
-# `r fa("fas fa-question", fill = "#fff")` <br><br> Questions
-
-**What would you like to talk more about?**
+# `r fa("fas fa-question", fill = "#fff")` <br><br> What should we<br>talk more about?
 
 <hr>
 
-<br><br><br><br>
+<br><br><br><br><br>
 
-**Bret Staudt Willet** <br><br> Florida State University
+**Bret Staudt Willet** <br><br> Florida State University (USA)
 
-`r fa("envelope", fill = "#fff")` [bret.staudtwillet@fsu.edu](mailto:bret.staudtwillet@fsu.edu) | `r fa("globe", fill = "#fff")` [bretsw.com](https://bretsw.com/) | `r fa("fab fa-github", fill = "#fff")` [GitHub](https://github.com/bretsw/)
+`r fa("envelope", fill = "#fff")` [bret.staudtwillet@fsu.edu](mailto:bret.staudtwillet@fsu.edu) | `r fa("globe", fill = "#fff")` [bretsw.com](https://bretsw.com/) | `r fa("fab fa-github", fill = "#fff")` [github.com/bretsw](https://github.com/bretsw/)
